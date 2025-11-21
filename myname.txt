@@ -1,5 +1,3 @@
 Hmwe Hmwe Ei
-abcdef
-asdfg
-How much? 
-much have...
+Hello World!
+
